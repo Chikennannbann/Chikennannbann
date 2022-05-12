@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi👋, I'm Chikennannbann
+
+##### A programming learner started from April, 2022.
 
 <!--
 **Chikennannbann/Chikennannbann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
